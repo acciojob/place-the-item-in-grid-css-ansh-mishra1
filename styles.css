@@ -3,12 +3,12 @@
 .holder{
 	border: 2px solid aqua;
 	display:grid;
-	grid-template-columns: repeat(2,1fr);
+	grid-template-columns: repeat(2,100px);
 	grid-template-rows: repeat(2, 1fr)
 }
 .item{
 	text-align:center;
-	font-size:64px;
+	font-size:34px;
 	color: white;
 }
 .item-1{
